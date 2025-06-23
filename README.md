@@ -43,15 +43,13 @@ Best validation accuracy: **77.97%** with `LR=0.001` and `BS=64`.
 ---
 
 ## 📦 Files
-- `phase2.ipynb` – Complete Colab notebook with code, training, evaluation, and results
-- `README.md` – Project summary
+- `phase2.ipynb` – Complete Jupyter/Colab notebook with model implementation, training, evaluation, and demo prediction
+- `COMP6721_Phase2_Final_Report.pdf` – Final project report including methodology, results, and analysis
+- `requirements.txt` – Python dependencies required to run the notebook
+- `README.md` – This project summary and usage guide
 
 ---
 
-## ▶️ Demo
-Model saved as `best_model.pth` and supports live testing with unseen images.
-
----
 
 ## 🛠️ Future Improvements
 - Data augmentation
